@@ -1,0 +1,22 @@
+
+a {
+	text-decoration: none;
+}
+
+.logo_style_blue {
+	background-color: #08699D;
+	color: white;
+	font: 48px/64px "Fredoka One", Helvetica, Arial, sans-serif;
+	height: 1.5em;
+	width: 1.5em;
+	text-align: center;
+	border-radius: 50%;
+	box-shadow: 0px 0px 0px 0.14em #08699D;
+  padding: 4px 0 0px 2px;
+}
+
+
+a:hover .logo_style_blue {
+	background-color: #F78600;
+	box-shadow: 0px 0px 0px 0.13em #F78600;
+}
